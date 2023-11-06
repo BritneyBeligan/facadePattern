@@ -21,4 +21,4 @@ In your solution you must provide the following in your Github link account:
   UML Class Diagram
   Uploaded java codes for the solution.
 
-![Screenshot 2023-11-06 214323](https://github.com/BritneyBeligan/facadePattern/assets/142373706/63fa8ed9-96b3-45ce-b272-ca8b468a44b9)
+![LAB 7](https://github.com/BritneyBeligan/facadePattern/assets/142373706/57de4fa6-f538-4f3f-a2c9-afb5156e82b2)

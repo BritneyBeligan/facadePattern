@@ -20,3 +20,5 @@ In your solution you must provide the following in your Github link account:
   Problem statement (description of the problem. Just copy what is stated here.
   UML Class Diagram
   Uploaded java codes for the solution.
+
+![image](https://github.com/BritneyBeligan/facadePattern/assets/142373706/76c285ab-a05e-4d45-9f75-924dd5d3eb58)
